@@ -1,0 +1,23 @@
+{
+  "name": "unujobs_consulta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@damankj/react-pdf": "^4.0.1",
+    "js-cookie": "^2.2.1",
+    "next": "^9.2.1",
+    "pdf-viewer-reactjs": "^2.0.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-pdf": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Hans Medina",
+  "license": "ISC"
+}
